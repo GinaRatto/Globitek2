@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 3\. [x]  Required: Review code for Staff CMS for Users
 
 4\. [x]  Required: Complete Staff CMS for Salespeople
-  * [x]  Required: index.php
+  * [X]  Required: index.php
   * [x]  Required: show.php
   * [x]  Required: new.php
   * [x]  Required: edit.php
@@ -76,10 +76,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+There is currently one bug where spaces aren't allowed
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Gina Ratto]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
